@@ -12,7 +12,7 @@
         glEnd ();
         }
 
-        void display (void) {
+        void display (void){
              glClear (GL_COLOR_BUFFER_BIT);
              userdraw ();
                 glutSwapBuffers ();
