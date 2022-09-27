@@ -23,7 +23,7 @@ void draw(){
 }
 
 
-void Initialize(){
+void Initialize() {
 
     glClearColor(0.0, 0.0, 0.0, 0.0);
 
